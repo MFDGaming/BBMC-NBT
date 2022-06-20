@@ -1,0 +1,22 @@
+{
+  "name": "bbmc-nbt",
+  "version": "1.0.0",
+  "description": "BlueBirdMC's NBT library",
+  "main": "src/NBT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueBirdMC/NBT.git"
+  },
+  "author": "MFDGaming",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/BlueBirdMC/NBT/issues"
+  },
+  "homepage": "https://github.com/BlueBirdMC/NBT#readme",
+  "dependencies": {
+    "bbmc-binarystream": "^1.0.0"
+  }
+}
