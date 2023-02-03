@@ -106,7 +106,7 @@ class NBTBaseBinaryStream extends BinaryStream {
 		return new Double(name, this.readDouble());
 	}
 
-	writeDoubleTag(name = "") {
+	writeDoubleTag(value) {
 		this.writeDouble(value.value);
 	}
 
