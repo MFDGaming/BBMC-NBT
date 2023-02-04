@@ -205,6 +205,8 @@ class NBTBaseBinaryStream extends BinaryStream {
 				return this.readShortTag(name);
 			case Int.id:
 				return this.readIntTag(name);
+			case Long.id:
+				return this.readLongTag(name);
 			case Float.id:
 				return this.readFloatTag(name);
 			case Double.id:
@@ -236,6 +238,9 @@ class NBTBaseBinaryStream extends BinaryStream {
 				break;
 			case Int.id:
 				this.writeIntTag(value);
+				break;
+			case Long.id:
+				this.writeLongTag(value);
 				break;
 			case Float.id:
 				this.writeFloatTag(value);
