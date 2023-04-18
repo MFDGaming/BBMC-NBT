@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlueBirdMC/NBT.git"
+    "url": "git+https://github.com/MFDGaming/BBMC-NBT.git"
   },
-  "author": "MFDGaming",
+  "author": "mfdgaming",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/BlueBirdMC/NBT/issues"
+    "url": "https://github.com/MFDGaming/BBMC-NBT/issues"
   },
-  "homepage": "https://github.com/BlueBirdMC/NBT#readme",
+  "homepage": "https://github.com/MFDGaming/BBMC-NBT#readme",
   "dependencies": {
     "bbmc-binarystream": "^1.0.0"
   }
