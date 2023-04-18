@@ -11,7 +11,7 @@
     "url": "git+https://github.com/MFDGaming/BBMC-NBT.git"
   },
   "author": "mfdgaming",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MFDGaming/BBMC-NBT/issues"
   },
